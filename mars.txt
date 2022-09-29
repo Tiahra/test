@@ -1,3 +1,4 @@
 this is the second edit
 second main
  conflict edit A
+new edit
